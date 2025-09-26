@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset CSV files (downloadable from Kaggle)
+data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
