@@ -10,7 +10,7 @@ Download from Kaggle: [Titanic Dataset](https://www.kaggle.com/competitions/tita
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/your-username/titanic-ml.git
+git clone https://github.com/Pavilion98/TitanicSurvival-ML.git
 cd TitanicSurvival
 pip install -r requirements.txt
 ```
